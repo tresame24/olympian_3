@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+/*I've styled all the colors with variable names. Add your own hex colrs and descriptive names ere*/
+:root {
+ --muted-yellow:#f5bf8d;
+ --mint:#b1cdbe;
+ --coffee:#4e454a;
+ --mud: #968b8b;
+ --pink:#ea7c95;
+}
+
+body {border: 1px red solid;}
